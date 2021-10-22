@@ -1,5 +1,5 @@
 # haystack
-Haystack with ES + TFIdf
+Haystack with InMemoryDocumentStore + TFIdf      (Colab)
 
 Optimal combination for the best results of closed domain Question Answering.
 
