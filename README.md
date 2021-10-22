@@ -1,5 +1,5 @@
 # haystack
-Haystack with ES + TfIdf
+Haystack with ES + TFIdf
 
 Optimal combination for the best results of closed domain Question Answering.
 
